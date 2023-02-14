@@ -1,0 +1,7 @@
+/* @use "color";
+@use "font-family";
+@use "variable"; */
+
+@forward "variable";
+@forward "font-family";
+@forward "color";
